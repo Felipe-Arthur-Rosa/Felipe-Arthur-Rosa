@@ -1,16 +1,11 @@
-### Hi there 👋
+# ⭐ Hello World ⭐
+ 
+ My Name Is Felipe Arthur da Rosa
+ 
+ I'm a young apprentice, on Full Stack programmer, by Malwee company 🏙
 
-<!--
-**lllSupslll/lllSupslll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ From SC living in Jaraguá do Sul
+ 
+ # "Não espere pela luz dos outros, seja a Luz que a todos luz ilumina"
+    
+    We will All be together learning
