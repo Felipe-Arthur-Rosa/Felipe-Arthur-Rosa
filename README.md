@@ -8,4 +8,5 @@
  
  # "Não espere pela luz dos outros, seja a Luz que a todos luz ilumina"
     
-    We will All be together learning
+    reach me out 👇🏻
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/felipe-arthur-da-rosa-2994b7231/)](https://www.linkedin.com/in/felipe-arthur-da-rosa-2994b7231/)
