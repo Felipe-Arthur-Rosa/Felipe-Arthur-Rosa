@@ -11,3 +11,4 @@
  
     reach me out 👇🏻
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/felipe-arthur-da-rosa-2994b7231/)](https://www.linkedin.com/in/felipe-arthur-da-rosa-2994b7231/)
+  [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://https://www.instagram.com/felipe_sups//)](https://www.instagram.com/felipe_sups//)
