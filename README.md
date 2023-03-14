@@ -7,7 +7,9 @@
 
  From SC living in Jaraguá do Sul
  
- # "Não espere pela luz dos outros, seja a Luz que a todos luz ilumina"
+ # "É muito mais divertido ter um molho de chaves a Varias portas esperando para serem abertas"
+ 
+         
  
     reach me out 👇🏻
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/felipe-arthur-da-rosa-2994b7231/)](https://www.linkedin.com/in/felipe-arthur-da-rosa-2994b7231/)
