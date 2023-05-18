@@ -14,4 +14,4 @@
     reach me out 👇🏻
   
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https:https://www.linkedin.com/in/felipe-arthur-da-rosa-2994b7231/)](https://www.linkedin.com/in/felipe-arthur-da-rosa-2994b7231/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://https://www.instagram.com/felipe_sups/)](https://www.instagram.com/felipe_sups/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://https://www.instagram.com/felipe_sups/)](https://www.instagram.com/felipe_sups/)
