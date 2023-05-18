@@ -12,6 +12,6 @@
          
  
     reach me out 👇🏻
-  [![Linkedin Badge][[<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="felipe-arthur-da-rosa-2994b7231" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/felipe-arthur-da-rosa-2994b7231?trk=profile-badge">Felipe Arthur Da Rosa</a></div>](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
               
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://https://www.instagram.com/felipe_sups/)](https://www.instagram.com/felipe_sups/)
