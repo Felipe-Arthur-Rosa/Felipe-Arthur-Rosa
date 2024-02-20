@@ -2,11 +2,11 @@
 
  My Name Is Felipe Arthur da Rosa
  
- I'm a junior developer focused on flutter.
+ I'm a junior developer.
  
  From SC living in Jaraguá do Sul
  
- # "É muito mais divertido ter um molho de chaves a Varias portas esperando para serem abertas"
+ # "É muito mais divertido ter um molho de chaves á Varias portas esperando para serem abertas"
  
          
  
